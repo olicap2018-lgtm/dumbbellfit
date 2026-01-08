@@ -1,0 +1,15 @@
+{
+  "name": "DumbbellFit",
+  "short_name": "DumbbellFit",
+  "start_url": "/dumbbellfit/",
+  "display": "standalone",
+  "background_color": "#f2f2f2",
+  "theme_color": "#f2f2f2",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2964/2964514.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
